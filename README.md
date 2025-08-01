@@ -52,7 +52,7 @@ public class ChatBot {
 ```
 
 
-To access a value at a particular index we use `myArrayList.get(3)` to change that value we would use set `myArrayList.set(3) = "Some Text"`.
+To access a value at a particular index we use `myArrayList.get(3)` to change that value we would use set `myArrayList.set(3, "Some Text")`.
 
 We can add new items at the end of the ArrayList or add them at a given index. We can remove the first instance of an object, or we can remove an item at a given index.
 
