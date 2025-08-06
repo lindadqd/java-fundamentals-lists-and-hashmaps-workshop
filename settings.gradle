@@ -1,2 +1,4 @@
 rootProject.name = 'java-fundamentals-lists-and-hashmaps-workshop'
 
+
+include 'src'
